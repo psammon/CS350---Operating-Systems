@@ -1,0 +1,13 @@
+STATUS: 100% implemented. fork_rc_test 0|1 produces desired output,
+however schdtest test cases are not ideal
+
+DESC:Implemented the 4 system calls in the project pdf
+according to how we added them last time, modifying user.h, 
+sysproc.c syscall.h, syscall.c, and usys.S. Added helper functions 
+findProc(), which accepts a PID as an argument and returns the 
+associated *proc; 
+updateTickets(), which loops throught the ptable twice, 
+once to count the current process count and again to update the ticket 
+value of each process accordingly; and 
+getminproc() which returns the proc with the minimum pass.
+Also added some logic to fork() and scheduler() in proc.c to actually switch between policies.

@@ -1,0 +1,10 @@
+STATUS: Not amazing. First off let me just ask for some leniencey, 
+I have 5 classes and 5 finals, and had about 25 assignemnts (not an exaggeration)
+due concurrenlty during the weeks this project was assigned, 
+and one of those weeks our thanksgiving break.
+Even though I have been grinding work all day 
+and night and never leaving my house since getting 
+back from thanksgiving break, I still just did not have the 
+time to progressively work on this, and even then I have spent 
+20+ hours on this project so far and only have first fit malloc and free, 
+I dont even have all the test cases for that. I learned alot this project and I wish 
